@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=View_Model
+comment1.params=model
+comment1.target=void\ update(Model)
+comment1.text=gibt\ auf\ der\ Konsole\ aus,\ wer\ das\ Model\ beobachtet
+numComments=2

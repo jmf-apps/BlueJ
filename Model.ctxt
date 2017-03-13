@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Model
+comment1.params=
+comment1.target=Model()
+comment1.text=erzeugt\ ein\ Objekt\ der\ Klasse\ Model
+comment2.params=neuerZustand
+comment2.target=void\ setZustand(int)
+comment2.text=\ setzt\ den\ Zustand\ des\ Models\ neu\ und\ benachrichtigt\ anschlie\u00DFend\ alle\ Beobachter\ \r\n\ \u00FCber\ die\ Zustands\u00E4nderung.\r\n
+comment3.params=
+comment3.target=int\ getZustand()
+comment3.text=gibt\ den\ aktuellen\ Zustand\ zur\u00FCck
+comment4.params=
+comment4.target=void\ BeobachterBenachrichtigen()
+comment4.text=\ ruft\ von\ allen\ Beobachtern\ die\ Methode\ update()\ auf.\ Die\ Existenz\ dieser\ Methode\ ist\ \r\n\ durch\ die\ Schnittstelle\ garantiert.\r\n
+comment5.params=b
+comment5.target=void\ BeobachterHinzufuegen(Beobachter)
+comment5.text=f\u00FCgt\ einen\ Beobachter\ hinzu
+comment6.params=b
+comment6.target=void\ BeobachterEntfernen(Beobachter)
+comment6.text=entfernt\ einen\ Beobachter
+comment7.params=
+comment7.target=java.util.ArrayList\ getBeobachter()
+comment7.text=gibt\ die\ Liste\ der\ Beobachter\ zur\u00FCck
+numComments=8

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=View_Console
+comment0.text=\r\n\ \r\n\ @author\ (Andreas\ Wagner)\ \r\n\ @version\ (2013)\r\n
+comment1.params=model
+comment1.target=void\ update(Model)
+comment1.text=gibt\ auf\ der\ Konsole\ aus,\ ob\ die\ Lampe\ an\ oder\ aus\ ist
+numComments=2

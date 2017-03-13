@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Beobachter
+comment0.text=\r\n\ Das\ Interface\ Beobachter\ garantiert\ die\ Existenz\ der\ Methode\ update(Model\ model);\r\n
+comment1.params=model
+comment1.target=void\ update(Model)
+numComments=2

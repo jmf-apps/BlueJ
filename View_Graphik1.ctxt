@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=View_Graphik1
+comment1.params=
+comment1.target=View_Graphik1()
+comment1.text=erzeugt\ ein\ Graphikfenster
+comment2.params=g
+comment2.target=void\ paint(java.awt.Graphics)
+comment2.text=\ \u00FCberschreibt\ die\ paint-Methode\ der\ JFrame-Klasse,\ um\ einen\ Kreis\ (gelb\ \=\ Lampe\ leuchtet)\ \r\n\ auszugeben.\r\n
+comment3.params=model
+comment3.target=void\ update(Model)
+comment3.text=speichert\ die\ Referenz\ auf\ das\ aktuelle\ Model\ und\ fordert\ das\ Neuzeichnen\ des\ Fensters\ an
+numComments=4
